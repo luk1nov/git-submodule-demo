@@ -2,4 +2,3 @@
 	path = Test
 	url = https://github.com/luk1nov/Test.git
 	branch = main
-	ignore = dirty
